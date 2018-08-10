@@ -23,7 +23,7 @@ public class Notificaton
 	/**
 	 * Gets the URL
 	 *
-	 * @return url the gets String url
+	 * @return url the get's String url
 	 */
 	public String getUrl()
 	{
