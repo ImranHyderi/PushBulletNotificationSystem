@@ -1,5 +1,5 @@
 # PushBulletNotificationSystem
-A RESTful API developed using Spring Booot to send notifications using Pushbullet
+A RESTful API developed using Spring Boot to send notifications using Pushbullet
 
 ## Technologies used
 Eclipse with STS plugin, Maven, Java, Spring Boot, H2 database.
