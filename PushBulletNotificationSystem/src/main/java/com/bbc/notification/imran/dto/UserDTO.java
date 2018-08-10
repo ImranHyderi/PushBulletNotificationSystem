@@ -36,10 +36,10 @@ public class UserDTO
 
 	@Column(name = "NUMBER_NOTIFICATIONS")
 	private Integer numOfNotificationsPushed = 0;
-	
+	 
 	/**
 	 * Gets the creation time.
-	 * @return creationTime Date type object contain the date of creation for the record.
+	 * @return creationTime Date type object containing the date of creation for the record.
 	 */
 	public Date getCreationTime() 
 	{
