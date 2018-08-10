@@ -38,7 +38,7 @@ public class UserDTO
 	private Integer numOfNotificationsPushed = 0;
 	 
 	/**
-	 * Gets the creation time.
+	 * Gets the creation time
 	 * @return creationTime Date type object containing the date of creation for the record.
 	 */
 	public Date getCreationTime() 
