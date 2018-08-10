@@ -14,6 +14,7 @@ If a user A sends a notification at the same time as User B and both users are u
 1. Import project into STS or Eclipse if you have the STS plugin installed.
 2. Right click on project and Run As Spring Boot App.
 3. Once running you can use a REST client such as Postman.
+4. Ensure that the request is sent as a JSON(application/json) media type.
 
 ### Register New User
 To register a new user, use the api call shown below.
