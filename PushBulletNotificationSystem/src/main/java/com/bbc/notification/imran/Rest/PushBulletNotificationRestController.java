@@ -34,7 +34,7 @@ import com.bbc.notification.imran.repository.UserJpaRepository;
  *
  */
 @RestController
-@RequestMapping("/bbc/api/notification")
+@RequestMapping("bbc/api/notification")
 public class PushBulletNotificationRestController 
 {
 	
