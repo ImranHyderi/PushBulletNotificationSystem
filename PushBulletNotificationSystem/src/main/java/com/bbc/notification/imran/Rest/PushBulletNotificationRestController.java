@@ -62,7 +62,6 @@ public class PushBulletNotificationRestController
 			logger.info("Unable to get users. No users registered.");
 			return new ResponseEntity<List<UserDTO>>(HttpStatus.NO_CONTENT);
 		}
-
 		return new ResponseEntity<List<UserDTO>>(users, HttpStatus.OK);		
 	}
 	
